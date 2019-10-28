@@ -1,0 +1,27 @@
+p {
+    background-color: aqua;
+    width: 300px;
+    height: 100px;
+    overflow: auto;
+}
+
+.satu {
+    border-style: dotted;
+    border-color: red;
+    border-width: 10px;
+    padding: 10px;
+}
+
+.dua {
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
+    padding: 10px;
+}
+
+.tiga {
+    border-style: dashed;
+    border-color: blue;
+    border-width: 20px;
+    padding: 10px;
+}
